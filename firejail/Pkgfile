@@ -1,16 +1,15 @@
 description="Linux namespaces sandbox program"
 url="https://l3net.wordpress.com/projects/firejail/"
 
-packager="tnut <tnut@nutyx.org>"
-contributors="Hugo,Remy,Spiky"
+packager="spiky <spiky@nutyx.org>"
+contributors="Hugo,Remy,Tnut"
 
 makedepends=(gawk)
 
 name=firejail
-version=0.9.80
+version=0.9.82
 
-source=(
-https://sourceforge.net/projects/firejail/files/$name/$name-$version.tar.xz)
+source=(https://github.com/netblue30/firejail/archive/refs/tags/$version.tar.gz)
 
 build(){
 cd $name-$version
