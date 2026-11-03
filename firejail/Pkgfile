@@ -7,7 +7,7 @@ contributors="Hugo,Remy,Tnut"
 makedepends=(gawk)
 
 name=firejail
-version=0.9.82
+version=0.9.82.2
 
 source=(https://github.com/netblue30/firejail/archive/refs/tags/$version.tar.gz)
 
