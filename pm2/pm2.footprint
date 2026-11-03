@@ -152,6 +152,7 @@ drwxr-xr-x	root/root	usr/lib/node_modules/pm2/lib/tools/multimeter/charm/
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/passwd.js
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/pm2-config-keys.js
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/prompt.js
+-rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/serviceStop.js
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/sexec.js
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/treeify.js
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/lib/tools/typestrip.js
@@ -2674,13 +2675,9 @@ drwxr-xr-x	root/root	usr/lib/node_modules/pm2/node_modules/ws/lib/
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/package.json
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/paths.js
 -rwxr-xr-x	root/root	usr/lib/node_modules/pm2/pm2
-drwxr-xr-x	root/root	usr/lib/node_modules/pm2/scripts/
--rw-r--r--	root/root	usr/lib/node_modules/pm2/scripts/list-exceptions.js
--rw-r--r--	root/root	usr/lib/node_modules/pm2/scripts/list-servers.js
 drwxr-xr-x	root/root	usr/lib/node_modules/pm2/types/
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/types/index.d.ts
 -rw-r--r--	root/root	usr/lib/node_modules/pm2/types/tsconfig.json
--rw-r--r--	root/root	usr/lib/node_modules/pm2/unit_time
 drwxr-xr-x	root/root	usr/lib/node_modules/root/
 -rw-r--r--	root/root	usr/lib/node_modules/root/.travis.yml
 -rw-r--r--	root/root	usr/lib/node_modules/root/LICENSE
